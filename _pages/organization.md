@@ -7,52 +7,58 @@ permalink: /organization/
 The AAAI doctoral consortium is organized by senior members of the AI research community.
 
 ### Chairs
-- [Jakob Foerster](https://www.jakobfoerster.com), University of Oxford, UK
-- [Lei Li](https://www.cs.ucsb.edu/~leili/), Univeristy of California Santa Barbara, USA
+- [Lijing Wang](https://christa60.github.io/), New Jersey Institute of Technology, USA
+- [Yue Ning](https://yue-ning.github.io/), Stevens Institute of Technology, USA
 
 
 ### Program Committee
 
-|Lei Li|University of California Santa Barbara|
-|Sebastian Stein|University of Southampton|
-|Jakob Foerster|University of Oxford|
-|Shirin Sohrabi|IBM|
-|Matthew E. Taylor|University of Alberta|
-|Maria Chang|IBM|
-|Ayumi Igarashi|National Institute of Informatics|
-|Felipe Leno Da Silva|LLNL|
-|Pin-Yu Chen|IBM|
-|Nicholas Mattei|Tulane University|
-|Gabriella Cortellessa|CNR-ISTC, National Research Council of Italy|
-|Mark Roberts|Naval Research Laboratory|
-|Fei Fang|Carnegie Mellon University|
-|Yi Wu|Tsinghua University|
-|Matthijs Spaan|Delft University of Technology|
-|Raphael Cobe|Sao Paulo State University|
-|Mohan Sridharan|University of Birmingham|
-|Dongchen Zhu|Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences|
-|Yu Su|The Ohio State University|
-|Wenhu Chen|University of Waterloo|
-|Changzhi Sun|Bytedance AI Lab|
-|Zaixiang Zheng|Bytedance|
-|Laura Hiatt|U.S. Naval Research Laboratory|
-|Claudio Pinhanez|IBM Research - Brazil|
-|Andrea Omicini|Alma Mater Studiorum–Università di Bologna|
-|Matthew Gombolay|Massachusetts Institute of Technology|
-|Eric Wong|Carnegie Mellon University|
-|Marie desJardins|UMBC|
-|Tim Miller|The University of Melbourne|
-|Anna Helena Reali Costa|Universidade de São Paulo|
-|Jingya Wang|ShanghaiTech University|
-|Braden Soper|Lawrence Livermore National Laboratory|
-|Ruben Glatt|Lawrence Livermore National Laboratory|
-|Gita Sukthankar|University of Central Florida|
-|Johan Loeckx|Vrije Universiteit Brussel|
-|David Aha|Naval Research Laboratory|
-|Alexandra Coman|Capital One|
-|Marco Maratea|DIBRIS, University of Genova|
-|Sergiy Bogomolov|Newcastle University|
-|Ningyu Zhang|Zhejiang University|
-|Stefania Costantini|Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica, Univ. dell'Aquila|
-|Jingjing Wang|Soochow University|
-|Bei Peng|University of Liverpool|
+|	Yue	Ning	|	Stevens Institute of Technology		|
+|	Sebastian	Stein	|	University of Southampton		|
+|	Lijing	Wang	|	New Jersey Institute of Technology		|
+|	Nikhil	Muralidhar	|	Stevens Institute of Technology		|
+|	David	Aha	|	Naval Research Laboratory		|
+|	Henrique	Lopes Cardoso	|	University of Porto		|
+|	Francisco	Confdna	|	confDNA		|
+|	Fenglong	Ma	|	Pennsylvania State University		|
+|	Nirav	Ajmeri	|	University of Bristol		|
+|	Andreas	Truegler	|	Know-Center		|
+|	Hongchang	Gao	|	Temple University		|
+|	Jinzhuo	Wang	|	Peking University		|
+|	Laura	Hiatt	|	U.S. Naval Research Laboratory		|
+|	Ruben	Glatt	|	Lawrence Livermore National Laboratory		|
+|	Jingya	Wang	|	ShanghaiTech University		|
+|	Raphael	Cobe	|	Sao Paulo State University		|
+|	Li	Zhang	|	University of Texas Rio Grande Valley		|
+|	Pin-Yu	Chen	|	IBM		|
+|	Nicholas	Mattei	|	Tulane University		|
+|	Claudio	Pinhanez	|	IBM Research - Brazil		|
+|	Hua	Wei	|	Arizona State University		|
+|	Marco	Maratea	|	DIBRIS, University of Genova		|
+|	Gene	Kim	|	University of South Florida		|
+|	Dimitris	Plexousakis	|	Institute of Computer Science, FORTH		|
+|	Shuai	Zhang	|	NJIT		|
+|	Jan	Kretinsky	|	Masaryk University		|
+|	Mark	Roberts	|	The US Naval Research Laboratory		|
+|	Rosina	Weber	|	Drexel University		|
+|	Marie	desJardins	|	UMBC		|
+|	Yi	Wu	|	Tsinghua University		|
+|	Sajad	Khorsandroo	|	North Carolina A&T State University		|
+|	Matthew E.	Taylor	|	University of Alberta		|
+|	Ayal	Taitler	|	University of Toronto		|
+|	Xintao	Wu	|	University of Arkansas		|
+|	Dongchen	Zhu	|	Shanghai Institute of Microsystem and Information Technology, Chinese Academy of Sciences		|
+|	Buser	Say	|	Monash University		|
+|	Zuobin	Xiong	|	University of Nevada, Las Vegas		|
+|	Yu	Gan	|	Stevens Institute of Technology		|
+|	Mengjia	Xu	|	CBMM, MIT		|
+|	Ping	Wang	|	Stevens Institute of Technology		|
+|	Germaine	Djuidje Kenmoe Epse Aloyem Kaze	|	University of Yaounde 1		|
+|	Yue	Zhao	|	University of Southern California		|
+|	Tim	Miller	|	The University of Queensland		|
+|	Riccardo	Guidotti	|	University of Pisa		|
+|	Dmitry	Ilvovsky	|	National Research University Higher School of Economics		|
+|	Rahmatollah	Beheshti	|	University of Delaware		|
+|	Tiffany	Barnes	|	North Carolina State University		|
+|	Hai	Phan	|	New Jersey Institute of Technology		|
+|	Caren	Han	|	University of melbourne		|
