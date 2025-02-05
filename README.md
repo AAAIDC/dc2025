@@ -1,6 +1,6 @@
 Forked from [here](https://github.com/amitmerchant1990/reverie)
 
-AAAI DC 2023
+AAAI DC 2025
 
 Instruction to setup on github (once):
 1. revise `_config.yml`
