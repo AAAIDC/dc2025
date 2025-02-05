@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 # Location
-Walter E. Washington Convention Center, Room 209A.
+Pennsylvania Convention Center, Philadelphia, Pennsylvania 
 
 # Feb. 25(Tuesday)
 
