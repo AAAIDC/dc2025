@@ -9,7 +9,7 @@ The 39th AAAI Doctoral Consortium (DC) will provide a group of PhD students with
 - Support a new generation of researchers by offering advice about academic, research, industrial, and nontraditional career paths
 - Contribute to the overall conference goals through interaction with other researchers and participation in conference events
 
-For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-23 website](https://aaai.org/conference/aaai/aaai-25/).
+For additional information (e.g., application procedures) please refer to the call for applications on the [AAAI-25 website](https://aaai.org/conference/aaai/aaai-25/).
 
 
 ### Important dates
@@ -29,6 +29,6 @@ Philadelphia, Pennsylvania, USA.
 ----------
 # Sponsor
 
-![](/dc2023/images/AIJ-logo.jpeg)
+![](/dc2025/images/AIJ-logo.jpeg)
 
 [Earlier years](/)
