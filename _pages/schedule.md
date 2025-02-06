@@ -42,7 +42,7 @@ Host: Yue Ning
 
 - [11:00am-12:00pm]  Poster session 3
 
-**[12:30pm - 2:00pm] Lunch (Student lead lunch with mentors)**
+- [12:30pm - 2:00pm] Lunch 
 
 ### Session 4: 2pm–4:30pm EST
 
