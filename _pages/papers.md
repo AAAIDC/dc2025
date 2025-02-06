@@ -35,7 +35,7 @@ Poster Session 1: Trustworthy AI and Decision Making Systems
 |	Mercy Gachoka | Design and Evaluation of a Generative Artificial Intelligence-Based Tool for Students with Learning Disabilities in Kenya		|
 |	Benyamin Tabarsi | Developing LLM-Powered Trustworthy Agents for Personalized Learning Support		|
 |	Guanqun Yang | Advancing Intelligent Software Development and Trustworthy Models Through the Synergy of Software Engineering and LLMs		|
-|	Janice Anta Zebaze, et al. | Leveraging Large Language Models for Wind Energy Assessment		|
+|	Janice Anta Zebaze | Leveraging Large Language Models for Wind Energy Assessment		|
 |	Heidi Reichert | Understanding GenAI for Teaching and Learning in Secondary Classrooms		|
 |	Tunazzina Islam | Understanding Microtargeting Pattern on Social Media		|
 
