@@ -12,21 +12,21 @@ Pennsylvania Convention Center, Philadelphia, Pennsylvania
 ### Session 1: 8:45am–12:30pm EST
 
 - [8:45am] Welcome and Logistics, Yue Ning and Lijing Wang.
-
-- [9:00am-10:00am] **Keynote Talk** Milind Tambe (Harvard), [TBA](../speakers/) \
+  
+- [9:00am-10:00am] **Keynote Talk**: Milind Tambe (Harvard), [TBA](../speakers/) \
 Host: Yue Ning
 
-- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
+- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
+  Mentors: Dinesh Jayaraman (UPenn); Xuan Wang (Virginia Tech); 
 
 - [11:00am-12:00pm]  Poster session 1
  
-**[12:30pm - 2:00pm] Lunch  **
+- [12:30pm - 2:00pm] Lunch  
 
 ### Session 2: 2pm–8pm EST
 
 - [2:00pm -- 3:00pm] Poster session 2
-
-**[3:30pm - 5:00pm] Social and attend Tutorial and Lab Forum, Bridge Program.**
+- [3:30pm - 5:00pm] Social and attend Tutorial and Lab Forum, Bridge Program.
 - [5:15 pm – 8:00 pm] Group Dinner for all students (TBD)
 
 
@@ -37,7 +37,8 @@ Host: Yue Ning
 
 - [9:00am-10:00am] **Invited Talk** TBA
 
-- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. 
+- [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
+  Mentors: Yunzhu Li (Columbia University); 
 
 - [11:00am-12:00pm]  Poster session 3
 
@@ -45,7 +46,7 @@ Host: Yue Ning
 
 ### Session 4: 2pm–4:30pm EST
 
-- [2:00pm-3:00pm] **Keynote Talk**  Dinesh Jayaraman (UPenn), [TBA](../speakers/) \
+- [2:00pm-3:00pm] **Keynote Talk**:  Dinesh Jayaraman (UPenn), [TBA](../speakers/) \
 Host: Yue Ning
 
 - [3:00pm-4:00pm]  Poster session 4
