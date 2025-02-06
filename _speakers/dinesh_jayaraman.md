@@ -8,7 +8,7 @@ label: Feb 26th, 2025
 time: "2:00 pm - 3:00 pm EST"
 day: day2
 website: "[https://people.csail.mit.edu/pulkitag/](https://www.seas.upenn.edu/~dineshj/)"
-image: "/dc2023/images/dinesh.jpg"
+image: "/dc2025/images/dinesh.jpg"
 title: TBA
 abstract: "TBA"
 bio: "TBA"
