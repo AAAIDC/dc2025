@@ -10,12 +10,11 @@ Poster Session 1: Trustworthy AI and Decision Making Systems
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | Author                         | Title                                                                                                            |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-
 |	Chhavi Yadav | The Mainstays of Trustworthy Machine Learning		|
 |	Yuanjie Shi | Reliable Uncertainty Quantification in Machine Learning via Conformal Prediction		|
 |	Haofeng Zhang | Statistical Methodologies for Decision-Making and Uncertainty Reduction in Machine Learning		|
 |	Lea Demelius | Privacy, Utility and Fairness: Navigating Trade-offs in Differentially Private Machine Learning		|
-|	Muqsit Azeem | Scalable Solutions for Decision|Making Systems Using Explainable Policy Representations		|
+|	Muqsit Azeem | Scalable Solutions for Decision-Making Systems Using Explainable Policy Representations		|
 |	Yezi Liu | Doctoral Consortium: Towards Trustworthy, Efficient, and Scalable Machine Learning		|
 |	Debalina Padariya | A Privacy-Preserving Framework for Generative Model-driven Synthetic Datasets		|
 |	Aneesh Komanduri | Toward Causal Generative Modeling: From Representation to Generation		|
@@ -54,7 +53,7 @@ Poster Session 1: Trustworthy AI and Decision Making Systems
 |	Onur Boyar | De Novo Molecular and Crystal Design with Latent Space Bayesian Optimization		|
 |	Subash Neupane | Intelligent Clinical Assistant for Personalized Responses and Clinical Summaries		|
 |	Flávia Carvalhido | Stress-Testing of Multimodal Models in Medical Image-Based Report Generation		|
-|	Ruth|Emely Pierau | Hyper-Spectral Image Generation from Frequency Spectrums		|
+|	Ruth-Emely Pierau | Hyper-Spectral Image Generation from Frequency Spectrums		|
 |	Ananya Joshi | Data Monitoring for Large Scale Public Health Data		|
 
 
