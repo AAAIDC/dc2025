@@ -38,7 +38,7 @@ Host: Yue Ning
 - [9:00am-10:00am] **Invited Talk** TBA
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Yunzhu Li (Columbia University); Xuan Wang (Virginia Tech); Jindong Wang (William & Mary); Francesco Leofante (Imperial College London)
+  Mentors: Yunzhu Li (Columbia University); Jindong Wang (William & Mary); Francesco Leofante (Imperial College London)
 
 - [11:00am-12:00pm]  Poster session 3
 
