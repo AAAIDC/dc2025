@@ -19,7 +19,7 @@ Host: Yue Ning
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
   Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); 
 
-- [11:00am-12:00pm]  Poster session 1
+- [11:00am-12:30pm]  Poster session 1
  
 - [12:30pm - 2:00pm] Lunch  
 
@@ -33,14 +33,12 @@ Host: Yue Ning
 
 # Feb. 26 (Wednesday)
 
-### Session 3: 9:00am–12pm EST
-
-- [9:00am-10:00am] **Invited Talk** TBA
+### Session 3: 10:00am–12:30pm EST
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
   Mentors: Yunzhu Li (Columbia University); Jindong Wang (William & Mary); Francesco Leofante (Imperial College London)
 
-- [11:00am-12:00pm]  Poster session 3
+- [11:00am-12:30pm]  Poster session 3
 
 - [12:30pm - 2:00pm] Lunch 
 
