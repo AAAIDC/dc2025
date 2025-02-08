@@ -7,7 +7,7 @@ permalink: /schedule/
 # Location
 Pennsylvania Convention Center, Philadelphia, Pennsylvania 
 
-# Feb. 25(Tuesday)
+# Feb. 25 (Tuesday)
 
 ### Session 1: 8:45am–12:30pm EST
 
