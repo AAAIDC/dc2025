@@ -49,7 +49,7 @@ Host: Yue Ning
 
 - [3:00pm-4:00pm]  Poster session 4
 
-- [4:00pm-4:30pm] Closing Remarks and Award Annoucement
+- [4:00pm-4:30pm] Closing Remarks and Award Announcement
 
 
 
