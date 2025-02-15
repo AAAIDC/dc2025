@@ -17,7 +17,7 @@ Pennsylvania Convention Center, Philadelphia, Pennsylvania
 Host: Yue Ning
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); Zhaozhuo Xu (Stevens Institute of Technology); Harsha Kokel (IBM)
+  Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); Zhaozhuo Xu (Stevens Institute of Technology); Harsha Kokel (IBM); Ming Yin (Princeton University)
 
 - [11:00am-12:30pm]  Poster session 1
  
