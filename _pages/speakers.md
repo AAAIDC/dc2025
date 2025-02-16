@@ -14,7 +14,6 @@ permalink: "/speakers/"
              <img src="{{ speaker.image }}" alt="{{ speaker.image }}" style="max-height:250px;">
     </p>
     <b>Title</b>: {{ speaker.title }} <br>
-    <a href="..{{ speaker.url }}">link</a>
     
     </p>
     <p><b>Abstract</b>: {{ speaker.abstract }}</p>
