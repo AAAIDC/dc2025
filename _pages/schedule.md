@@ -13,7 +13,7 @@ Pennsylvania Convention Center, Philadelphia, Pennsylvania
 
 - [8:45am] Welcome and Logistics, Yue Ning and Lijing Wang.
   
-- [9:00am-10:00am] **Keynote Talk**: Milind Tambe (Harvard), [TBA](../speakers/) \
+- [9:00am-10:00am] **Keynote Talk**: Milind Tambe (Harvard), [AI for Social Impact: Deployed Resource Optimization and Future Acceleration with Foundation Models](../speakers/) \
 Host: Yue Ning
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
