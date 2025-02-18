@@ -36,7 +36,7 @@ Host: Yue Ning
 ### Session 3: 10:00am–12:30pm EST
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Yunzhu Li (Columbia University); Jindong Wang (William & Mary); Francesco Leofante (Imperial College London); Vijay Ganesh (Georgia Institute of Technology)
+  Mentors: Jindong Wang (William & Mary); Francesco Leofante (Imperial College London); Vijay Ganesh (Georgia Institute of Technology); Denghui Zhang (Stevens Institute of Technology)
 
 - [11:00am-12:30pm]  Poster session 3
 
