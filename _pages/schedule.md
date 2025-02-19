@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 # Location
-Pennsylvania Convention Center, Philadelphia, Pennsylvania 
+Room 123, Pennsylvania Convention Center, Philadelphia, Pennsylvania 
 
 # Feb. 25 (Tuesday)
 
