@@ -17,7 +17,7 @@ Room 123, Pennsylvania Convention Center, Philadelphia, Pennsylvania
 Host: Yue Ning
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); Zhaozhuo Xu (Stevens Institute of Technology); Harsha Kokel (IBM); Ming Yin (Princeton University)
+  Mentors: Dinesh Jayaraman (UPenn);  Eugene Freuder (UCC); Francesca Rossi (IBM); Harsha Kokel (IBM); Ming Yin (Princeton University)
 
 - [11:00am-12:30pm]  Poster session 1
  
@@ -36,7 +36,7 @@ Host: Yue Ning
 ### Session 3: 10:00am–12:30pm EST
 
 - [10:00am-11:00am] Mentoring session for mentor-mentees. Soical Session. \
-  Mentors: Jindong Wang (William & Mary); Francesco Leofante (Imperial College London); Vijay Ganesh (Georgia Institute of Technology); Denghui Zhang (Stevens Institute of Technology)
+  Mentors: Jindong Wang (William & Mary); Francesco Leofante (Imperial College London); Vijay Ganesh (Georgia Institute of Technology); Zhaozhuo Xu (Stevens Institute of Technology); Denghui Zhang (Stevens Institute of Technology)
 
 - [11:00am-12:30pm]  Poster session 3
 
